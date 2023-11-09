@@ -1,4 +1,1 @@
-body{
-  background-color: rgba(236, 48, 48, 0.74);
-  
-}
+@import '/css/reset.css';
