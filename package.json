@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": ""
+    "dev": "live-server --open=docs/ --port=0817 --host=localhost --mount=/:docs"
   },
   "dependencies": {
     "live-server": "^1.2.2"
